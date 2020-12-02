@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Let us do the searching...
+    title: Let us do the searching
     subtitle: 'so you can spend your time building. '
     features:
       - title: The Best Feature of Your Services
