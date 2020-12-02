@@ -20,7 +20,7 @@ sections:
     title: Let us do the searching
     subtitle: '...so you can spend your time building. '
     features:
-      - title: A
+      - title: Modernity with a url
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
