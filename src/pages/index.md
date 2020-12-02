@@ -6,7 +6,7 @@ sections:
     image: >-
       images/happy-servicemen-repairing-machines-home_179970-416-removebg-preview.png
     image_alt: App preview
-    title: One location for all the best tools.
+    title: One location. All the best tools.
     content: >-
       a currated library of expertly reviewed tools in machine learning and
       analytics so you can always be the coolest person in the room. 
