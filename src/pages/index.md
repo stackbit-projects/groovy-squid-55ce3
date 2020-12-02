@@ -20,7 +20,7 @@ sections:
     title: Let us do the searching
     subtitle: '...so you can spend your time building. '
     features:
-      - title: The Best Feature of Your Services
+      - title: Rel
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
