@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      my ml kit is your ml kit - we bring all the best machine learning tools
+      under one roof so you can confidently select your stack  
     actions:
       - label: Learn More
         url: /features
