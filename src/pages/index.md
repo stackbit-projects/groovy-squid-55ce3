@@ -18,9 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Let us do the searching...
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'So you can spend your time building. '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
