@@ -34,9 +34,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          We analyze millions of data points from dozens of sources in realtime,
-          surfacing only the best trending topics in analytics and machine
-          learning. 
+          By analyzing millions of data points from dozens of sources in
+          realtime, you get the oinly best trending topics in analytics and
+          machine learning. 
         actions:
           - label: Learn More
             url: /features
