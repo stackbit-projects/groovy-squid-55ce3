@@ -24,9 +24,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Knowing how to use a tool is only half the battle. Knowing which tool
+          to use (and where) is the other half. We collect and analyze thousands
+          tools so you dont have to.   
         actions:
           - label: Learn More
             url: /features
