@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: One location for all the best tools.
     content: >-
-      my ml kit is your ml kit - a currated library of expertly reviewed tools
-      in machine learning and analytics. 
+      a currated library of expertly reviewed tools in machine learning and
+      analytics so you can always be the coolest person in the room. 
     actions:
       - label: Learn More
         url: /features
