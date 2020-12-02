@@ -35,7 +35,7 @@ sections:
         image_alt: App users welcoming a new member
         content: >-
           By analyzing millions of data points from dozens of sources in
-          realtime, you get the oinly best trending topics in analytics and
+          realtime, you get the only best trending topics in analytics and
           machine learning. 
         actions:
           - label: Learn More
