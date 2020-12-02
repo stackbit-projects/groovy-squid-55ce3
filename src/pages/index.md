@@ -43,7 +43,9 @@ sections:
       - title: Remain relevant
         image: images/feature3.png
         image_alt: App user profile preview
-        content: 'Personalized recommendations based on a your skills and stack. '
+        content: >-
+          Indsutry insights and thousands of tools distilled to a personal
+          recommendation based on a your skills and stack. 
         actions:
           - label: Learn More
             url: /features
