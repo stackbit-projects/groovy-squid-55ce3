@@ -30,7 +30,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Discover trends
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
