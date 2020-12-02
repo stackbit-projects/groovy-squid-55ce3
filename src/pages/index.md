@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: One location for All the best tools.
+    title: One location for all the best tools.
     content: >-
       my ml kit is your ml kit - we bring all the best machine learning tools
       under one roof so you can confidently select your stack  
