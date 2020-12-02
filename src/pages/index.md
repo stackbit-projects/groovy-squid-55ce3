@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: One location for all the best tools.
     content: >-
-      my ml kit is your ml kit - we bring all the best machine learning tools
-      under one roof so you can confidently select your stack  
+      **my ml kit** is *your* ml kit - we bring all the best machine learning
+      tools under one roof so you can confidently select your stack  
     actions:
       - label: Learn More
         url: /features
