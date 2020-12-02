@@ -34,9 +34,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We analyze millions of data points from dozens of sources in realtime,
+          surfacing the best trending topics in machine learning, data
+          eningeering, data sciecne, data governance and more. 
         actions:
           - label: Learn More
             url: /features
