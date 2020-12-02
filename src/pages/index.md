@@ -35,8 +35,7 @@ sections:
         image_alt: App users welcoming a new member
         content: >-
           We analyze millions of data points from dozens of sources in realtime,
-          surfacing the best trending topics in machine learning, data
-          eningeering, data sciecne, data governance and more. 
+          surfacing the best trending topics in analytics and machine learning. 
         actions:
           - label: Learn More
             url: /features
