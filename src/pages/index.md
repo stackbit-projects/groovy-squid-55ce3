@@ -21,8 +21,7 @@ sections:
     subtitle: '...so you can spend your time building. '
     features:
       - title: Access modernity
-        image: >-
-          images/data-analysis-concept-style-with-people-characters-situation_9209-3663-removebg-preview.png
+        image: images/cool-eucalyptus.png
         image_alt: App preview on a phone and tablet
         content: >-
           Knowing *how* to use a tool is only half the battle. Knowing *which*
