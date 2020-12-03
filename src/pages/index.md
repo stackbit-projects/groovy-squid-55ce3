@@ -32,7 +32,8 @@ sections:
           - label: Learn More
             url: /features
       - title: Discover trends
-        image: images/feature2.png
+        image: >-
+          images/man-with-laptop-analyzing-infographics-diagram-bar-chart-report-flat-vector-illustration-analysis-marketing-project-manager_74855-8454-removebg-preview.png
         image_alt: App users welcoming a new member
         content: >-
           We analyze millions of data points from dozens of sources in realtime
