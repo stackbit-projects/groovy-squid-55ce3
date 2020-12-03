@@ -8,14 +8,14 @@ sections:
     image_alt: App preview on a phone and tablet
     title: 'Intelligent product groupings & Industry insights. '
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Millionds of data points and thousands of tools reviewed so you can stay
+      up to date on industry trends, feel confident in your tool selection and
+      accelerate you ML Maturity. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * ML Code Library  
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Model APIs 
 
       * Phasellus ut enim non lorem venenatis rutrum.
 
