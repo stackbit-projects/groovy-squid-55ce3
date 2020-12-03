@@ -27,7 +27,7 @@ sections:
           tool to use (and where) is the other half. We collect and analyze
           thousands tools so you dont have to.   
         actions:
-          - label: Learn More
+          - label: View Re
             url: /features
       - title: Discover trends
         image: >-
