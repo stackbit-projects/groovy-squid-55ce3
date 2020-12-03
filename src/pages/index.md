@@ -48,7 +48,7 @@ sections:
           Indsutry insights and thousands of tools distilled to a personal
           recommendation based on a your skills and stack. 
         actions:
-          - label: Create Account
+          - label: Sign Up
             url: /features
   - section_id: reviews
     type: section_reviews
