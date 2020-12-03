@@ -3,8 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: >-
-      images/happy-servicemen-repairing-machines-home_179970-416-removebg-preview.png
+    image: images/tool-shop-customers_74855-5948-removebg-preview.png
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
