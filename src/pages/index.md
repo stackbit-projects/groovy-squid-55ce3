@@ -43,7 +43,7 @@ sections:
             url: /features
       - title: Remain relevant
         image: >-
-          images/office-workers-analyzing-researching-business-data_74855-4445-removebg-preview.png
+          images/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601-removebg-preview.png
         image_alt: App user profile preview
         content: >-
           Indsutry insights and thousands of tools distilled to a personal
