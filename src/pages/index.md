@@ -43,7 +43,8 @@ sections:
           - label: Learn More
             url: /features
       - title: Remain relevant
-        image: images/feature3.png
+        image: >-
+          images/office-workers-analyzing-researching-business-data_74855-4445-removebg-preview.png
         image_alt: App user profile preview
         content: >-
           Indsutry insights and thousands of tools distilled to a personal
