@@ -38,7 +38,7 @@ sections:
           so you get the only best trending topics in analytics and machine
           learning. 
         actions:
-          - label: Learn More
+          - label: ''
             url: /features
       - title: Remain relevant
         image: >-
