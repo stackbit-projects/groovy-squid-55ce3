@@ -46,7 +46,7 @@ sections:
           so you get the only best trending topics in analytics and machine
           learning. 
         actions:
-          - label: See News
+          - label: Get a Demo
             url: /features
       - title: Get expert support
         image: >-
