@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: >-
-      images/3d-render-abstract-background-with-modern-low-poly-plexus-design_1048-13213.jpg
+      images/people-holding-connected-copy-space-circle-icons_53876-64681-removebg-preview.png
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
