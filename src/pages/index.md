@@ -25,7 +25,7 @@ sections:
     title: Let us do the searching
     subtitle: '...so you can spend your time building. '
     features:
-      - title: 'Easily deploy '
+      - title: Access of-the-shelf ML
         image: images/cool-eucalyptus.png
         image_alt: App preview on a phone and tablet
         content: >-
