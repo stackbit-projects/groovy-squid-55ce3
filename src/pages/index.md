@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Screen Shot 2020-12-03 at 7.11.49 PM.png
+    image: images/Screen_Shot_2020-12-03_at_7.11.49_PM-removebg-preview.png
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
