@@ -25,7 +25,7 @@ sections:
     title: Let us do the searching
     subtitle: '...so you can spend your time building. '
     features:
-      - title: Access the machine learning library (MiLL)
+      - title: Access the machine learning library (MaLL)
         image: images/cool-eucalyptus.png
         image_alt: App preview on a phone and tablet
         content: >-
