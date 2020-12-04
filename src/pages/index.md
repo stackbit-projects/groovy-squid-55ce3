@@ -3,8 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: >-
-      images/people-holding-connected-copy-space-circle-icons_53876-64681-removebg-preview.png
+    image: images/Screen Shot 2020-12-03 at 7.11.49 PM.png
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
