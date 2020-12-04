@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
-      a currated library of expertly reviewed tools in machine learning and
+      A currated library of expertly reviewed tools in machine learning and
       analytics so you can always be the coolest person in the room. 
     actions:
       - label: Learn More
