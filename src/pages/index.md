@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Screen_Shot_2020-12-03_at_7.11.49_PM-removebg-preview.png
+    image: >-
+      images/tiny-people-testing-quality-assurance-software-isolated-flat-vector-illustration-cartoon-character-fixing-bugs-hardware-device-application-test-it-service-concept_74855-10172-removebg-preview.png
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
