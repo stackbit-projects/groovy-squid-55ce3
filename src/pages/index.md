@@ -13,7 +13,7 @@ sections:
       - label: Sign Up
         url: /features
         primary: true
-      - label: Sign Up
+      - label: Learn More
         url: lorem-ipsum
         primary: false
         new_window: false
