@@ -58,7 +58,7 @@ sections:
           maintenance. Learn Data Science from our Data Science Library or Data
           Science Bootcamps. 
         actions:
-          - label: Sign Up
+          - label: Reach out
             url: /features
   - section_id: reviews
     type: section_reviews
