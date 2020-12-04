@@ -36,7 +36,7 @@ sections:
         actions:
           - label: View Repos
             url: /features
-      - title: 'Productionalize your ML '
+      - title: Productionalize your ML models
         image: >-
           images/man-with-laptop-analyzing-infographics-diagram-bar-chart-report-flat-vector-illustration-analysis-marketing-project-manager_74855-8454-removebg-preview.png
         image_alt: App users welcoming a new member
