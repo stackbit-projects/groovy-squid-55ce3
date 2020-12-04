@@ -23,9 +23,8 @@ sections:
         image: images/cool-eucalyptus.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Knowing *how* to use a tool is only half the battle. Knowing *which*
-          tool to use (and where) is the other half. We collect and analyze
-          thousands tools so you dont have to.   
+          Knowing *how* to use a tool is only half the battle. We collect and
+          analyze thousands tools so you dont have to.   
         actions:
           - label: View Repos
             url: /features
