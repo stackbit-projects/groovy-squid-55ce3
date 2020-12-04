@@ -53,8 +53,10 @@ sections:
           images/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601-removebg-preview.png
         image_alt: App user profile preview
         content: >-
-          Indsutry insights and thousands of tools distilled to a personal
-          recommendation based on a your skills and stack. 
+          Get support from a team of ML Engineers and Data Science experts who
+          can help you with questions, troubleshooting, best practices, and
+          maintenance. Learn Data Science from our Data Science Library or Data
+          Science Bootcamps. 
         actions:
           - label: Sign Up
             url: /features
