@@ -36,7 +36,7 @@ sections:
         actions:
           - label: View Repos
             url: /features
-      - title: 'Setup your analytics department in '
+      - title: Setup your analytics department in days
         image: >-
           images/man-with-laptop-analyzing-infographics-diagram-bar-chart-report-flat-vector-illustration-analysis-marketing-project-manager_74855-8454-removebg-preview.png
         image_alt: App users welcoming a new member
