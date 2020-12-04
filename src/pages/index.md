@@ -10,7 +10,7 @@ sections:
       A currated library of expertly reviewed tools in machine learning and
       analytics so you can always be the coolest person in the room. 
     actions:
-      - label: Learn More
+      - label: Sign Up
         url: /features
         primary: true
       - label: Sign Up
