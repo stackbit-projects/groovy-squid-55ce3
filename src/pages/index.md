@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Screen_Shot_2020-12-02_at_10.10.01_PM-removebg-preview.png
+    image: >-
+      images/3d-render-abstract-background-with-modern-low-poly-plexus-design_1048-13213.jpg
     image_alt: App preview
     title: One location. All the best tools.
     content: >-
