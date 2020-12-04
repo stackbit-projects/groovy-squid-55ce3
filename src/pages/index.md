@@ -48,7 +48,7 @@ sections:
         actions:
           - label: See News
             url: /features
-      - title: Remain relevant
+      - title: Get expert support
         image: >-
           images/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601-removebg-preview.png
         image_alt: App user profile preview
