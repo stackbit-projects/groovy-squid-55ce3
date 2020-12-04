@@ -35,7 +35,7 @@ sections:
           been proven in production at hundreds of companies and is maintained
           and supported by ML Engineers and Data Science experts. 
         actions:
-          - label: View Repos
+          - label: View Library
             url: /features
       - title: Productionalize your models with ease
         image: >-
