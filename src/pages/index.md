@@ -29,8 +29,10 @@ sections:
         image: images/cool-eucalyptus.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Knowing *how* to use a tool is only half the battle. We collect and
-          analyze thousands tools so you dont have to.   
+          Build your analytics platform using our library of templitized,
+          validated and reusable machine learning code, written python, that has
+          been proven in production at hundreds of companies and is maintained
+          and supported by ML Engineers and Data Science experts. 
         actions:
           - label: View Repos
             url: /features
